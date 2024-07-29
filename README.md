@@ -7,6 +7,5 @@ I'm always looking to save money, and often fly in the cheapest seats available.
 <br>
 <br>
 My chart shows that a majority of people agree, and believe you have an obligation regarding the comfort of the person behind you – if they ask you not to recline your seat, those wishes should be respected. However, while this is a majority, there's still a sizeable chunk of the population that felt they are under no such obligation.
-<br>
-<br>
+
 ![J124 Bar Graph](j124-flight-chart.png)
